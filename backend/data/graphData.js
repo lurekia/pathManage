@@ -128,9 +128,9 @@ export const data = {
             target: 'n15',
             data: {
                 desc: '',
-                cost: 2,
-                time: 12,
-                dist: 24,
+                cost: 109,
+                time: 1.1,
+                dist: 200,
             }
         },
         {
@@ -139,9 +139,9 @@ export const data = {
             target: 'n10',
             data: {
                 desc: 'A-C路径',
-                cost: 4,
-                time: 12,
-                dist: 24,
+                cost: 127,
+                time: 1.3,
+                dist: 270,
             }
         },
         {
@@ -150,9 +150,9 @@ export const data = {
             target: 'n8',
             data: {
                 desc: 'B-C路径',
-                cost: 1,
-                time: 12,
-                dist: 24,
+                cost: 85,
+                time: 0.8,
+                dist: 120,
             }
         },
         {
@@ -161,9 +161,9 @@ export const data = {
             target: 'n7',
             data: {
                 desc: 'B-D路径',
-                cost: 7,
-                time: 12,
-                dist: 24,
+                cost: 147,
+                time: 1.8,
+                dist: 140,
             }
         },
         {
@@ -172,9 +172,9 @@ export const data = {
             target: 'n3',
             data: {
                 desc: 'C-E路径',
-                cost: 3,
-                time: 12,
-                dist: 24,
+                cost: 156,
+                time: 1.8,
+                dist: 150,
             }
         },
         {
@@ -183,9 +183,9 @@ export const data = {
             target: 'n1',
             data: {
                 desc: 'D-E路径',
-                cost: 1,
-                time: 12,
-                dist: 24,
+                cost: 127,
+                time: 1.5,
+                dist: 90,
             }
         },
         {
@@ -194,9 +194,9 @@ export const data = {
             target: 'n11',
             data: {
                 desc: 'D-E路径',
-                cost: 1,
-                time: 12,
-                dist: 24,
+                cost: 208,
+                time: 2.0,
+                dist: 190,
             }
         },
         {
@@ -205,9 +205,9 @@ export const data = {
             target: 'n6',
             data: {
                 desc: 'D-E路径',
-                cost: 1,
-                time: 12,
-                dist: 24,
+                cost: 100,
+                time: 1,
+                dist: 90,
             }
         },
         {
@@ -216,9 +216,9 @@ export const data = {
             target: 'n4',
             data: {
                 desc: 'D-E路径',
-                cost: 1,
-                time: 12,
-                dist: 24,
+                cost: 186,
+                time: 1.9,
+                dist: 220,
             }
         },
         {
@@ -227,9 +227,9 @@ export const data = {
             target: 'n16',
             data: {
                 desc: 'D-E路径',
-                cost: 1,
-                time: 12,
-                dist: 24,
+                cost: 186,
+                time: 1.9,
+                dist: 220,
             }
         },
         {
@@ -238,9 +238,9 @@ export const data = {
             target: 'n1',
             data: {
                 desc: 'D-E路径',
-                cost: 1,
-                time: 12,
-                dist: 24,
+                cost: 117,
+                time: 1.4,
+                dist: 100,
             }
         },
         {
@@ -249,9 +249,9 @@ export const data = {
             target: 'n2',
             data: {
                 desc: 'D-E路径',
-                cost: 1,
-                time: 12,
-                dist: 24,
+                cost: 95,
+                time: 0.9,
+                dist: 160,
             }
         },
         {
@@ -260,9 +260,9 @@ export const data = {
             target: 'n9',
             data: {
                 desc: 'D-E路径',
-                cost: 1,
-                time: 12,
-                dist: 24,
+                cost: 87,
+                time: 0.8,
+                dist: 200,
             }
         },
 
@@ -272,9 +272,9 @@ export const data = {
             target: 'n14',
             data: {
                 desc: 'D-E路径',
-                cost: 1,
-                time: 12,
-                dist: 24,
+                cost: 206,
+                time: 2.1,
+                dist: 185,
             }
         },
         {
@@ -283,9 +283,9 @@ export const data = {
             target: 'n13',
             data: {
                 desc: 'D-E路径',
-                cost: 1,
-                time: 12,
-                dist: 24,
+                cost: 80,
+                time: 0.8,
+                dist: 105,
             }
         },
         {
@@ -294,9 +294,9 @@ export const data = {
             target: 'n10',
             data: {
                 desc: 'D-E路径',
-                cost: 1,
-                time: 12,
-                dist: 24,
+                cost: 196,
+                time: 1.7,
+                dist: 180,
             }
         },
         {
@@ -305,9 +305,9 @@ export const data = {
             target: 'n5',
             data: {
                 desc: 'D-E路径',
-                cost: 1,
-                time: 12,
-                dist: 24,
+                cost: 230,
+                time: 2.3,
+                dist: 198,
             }
         },
         {
@@ -316,9 +316,9 @@ export const data = {
             target: 'n7',
             data: {
                 desc: 'D-E路径',
-                cost: 1,
-                time: 12,
-                dist: 24,
+                cost: 154,
+                time: 0.8,
+                dist: 162,
             }
         },
         {
@@ -327,9 +327,9 @@ export const data = {
             target: 'n1',
             data: {
                 desc: 'D-E路径',
-                cost: 1,
-                time: 12,
-                dist: 24,
+                cost: 90,
+                time: 1.5,
+                dist: 275,
             }
         },
     ]

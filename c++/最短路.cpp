@@ -18,7 +18,7 @@ int read()
 	}
 	return s*f;
 }
-struct node{
+struct node {
 	int to;
 	int val;
 	node(int st,int sv)
